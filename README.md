@@ -14,7 +14,7 @@ Depending on where the reference shape comes from, PA can be qualified as *Ordin
 
 You can test the output by typing `python3 ./try.py`.
 
-A two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox*, will appear.
+A two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox* (Klingenberg, 2015), will appear.
 
 In both cases, a root-mean-square deviation (RMSD) measure is shown in the window's title bar.
 
