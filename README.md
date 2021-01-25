@@ -8,9 +8,7 @@ A tiny, clean and heavily-commented NumPy-powered script originally designed to 
 
 Due to its simplicity and flexibility, PA is a common sparsity approach for preventing overparameterization while training deep neural networks. 
 
-Depending on where the reference shape comes from, PA can be qualified as *Ordinary Procrustes Analysis* (fixed shape) or *Generalized Procrustes Analysis* (mean shape). 
-
-The `procrustes` module found in this repository implements both [OPA and GPA] algorithms (the former, in fact, being a subset of the latter). 
+Depending on where the reference shape comes from, PA can be qualified as *Ordinary Procrustes Analysis* (fixed shape) or *Generalized Procrustes Analysis* (mean shape). The `procrustes` module found in this repository implements both algorithms (the former, in fact, being a subset of the latter). 
 
 ## Testing 
 
