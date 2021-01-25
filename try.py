@@ -33,8 +33,8 @@ def show(o, e, b):
 	# Highlight references
 	O[0].set(c='r', zorder=1)
 	if not b:
-		O[2].set_color('b')#r
-		O[2].set_alpha(0.4)#r
+		O[2].set_color('b')
+		O[2].set_alpha(0.4)
 
 	# Wait until pyplot window has been closed (we don't want a 'while True' interactive mode hack to unlock blocking)
 	p.axis('off') 	
