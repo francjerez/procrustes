@@ -28,9 +28,9 @@ $ pip3 install matplotlib
 
 ## Go deep 
 
-1975 - Generalized Procrustes Analysis (J.C. Gower)
-1977 - The Diffusion of Shape (D.G. Kendall)
-1991 - Procrustes Methods in the Statistical Analysis of Shape (Colin Goodall)
-1998 - Statistical Shape Analysis (I. Dryden, K.V. Mardia) 			
-2015 - Analyzing Fluctuating Asymmetry with Geometric Morphometrics (C.P. Klingenberg)
-2020 - Walking on Kendall’s Shape Space (C.P. Klingenberg)
+*1975 - Generalized Procrustes Analysis (J.C. Gower)
+*1977 - The Diffusion of Shape (D.G. Kendall)
+*1991 - Procrustes Methods in the Statistical Analysis of Shape (Colin Goodall)
+*1998 - Statistical Shape Analysis (I. Dryden, K.V. Mardia) 			
+*2015 - Analyzing Fluctuating Asymmetry with Geometric Morphometrics (C.P. Klingenberg)
+*2020 - Walking on Kendall’s Shape Space (C.P. Klingenberg)
