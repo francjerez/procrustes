@@ -4,9 +4,11 @@ A tiny, clean and heavily-commented NumPy-powered script originally designed to 
 
 ## Details
 
-The `procrustes` module implements both the *Ordinary Procrustes Analysis* and the *Generalized Procrustes Analysis* algorithms (the former, in fact, being a subset of the latter). 
+Procrustes analysis is a well known technique for the multidimensional transformation (rescaling, translation, rotation and reflection) of individual data matrices, in order to provide optimal data blending and/or comparability. Due to its simplicity and flexibility, PA is a common sparsity aproach for preventing overparameterization while training deep neural networks. 
 
-## Test
+Depending on where the reference shape comes from, PA can be qualified as *Ordinary Procrustes Analysis* (fixed shape) or *Generalized Procrustes Analysis* (mean shape). The `procrustes` module found in this repository implements both [OPA and GPA] algorithms (the former, in fact, being a subset of the latter). 
+
+## Testing 
 
 You can test the output by typing `python3 ./try.py`.
 
