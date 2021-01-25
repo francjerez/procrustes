@@ -6,7 +6,7 @@ A tiny, clean and heavily-commented NumPy-powered script originally designed to 
 
 *Procrustes analysis* is a well known method for the multidimensional transformation (rescaling, translation, rotation and reflection) of individual data matrices, in order to provide optimal data blending and/or comparability. 
 
-Due to its simplicity and flexibility, PA is a common sparsity approach for preventing overparameterization while training deep neural networks. 
+Due to its simplicity and flexibility, PA is a common sparsity approach for preventing *over-parameterization* while training deep neural networks. 
 
 Depending on where the reference shape comes from, PA can be qualified as *Ordinary Procrustes Analysis* (fixed shape) or *Generalized Procrustes Analysis* (mean shape). The `procrustes` module found in this repository implements both algorithms (the former, in fact, being a subset of the latter). 
 
