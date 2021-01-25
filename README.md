@@ -8,6 +8,8 @@ The `procrustes` module implements both the *Ordinary Procrustes Analysis* and t
 
 You can test the output by typing `python3 ./try.py` (a two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox*, will appear).
 
+## Examples
+
 OPA example (the dimmed blue line is the starting position of the solid blue line):
 ![OPA](https://user-images.githubusercontent.com/3150023/105704314-ea4c9380-5f0e-11eb-92b1-095e162f810f.png)
 
