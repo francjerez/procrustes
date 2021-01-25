@@ -6,13 +6,13 @@ Procrustes is a tiny, clean and heavily-commented NumPy-powered script originall
 
 The `procrustes` module implements both the *Ordinary Procrustes Analysis* and the *Generalized Procrustes Analysis* algorithms (the former, in fact, being a subset of the latter). 
 
-You can test the output by typing `python3 ./try.py`. A two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox* (Klingenberg, 2015), will appear.
+You can test the output by typing `python3 ./try.py`; a two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox* (Klingenberg, 2015), will appear.
 
 The OPA example (the dimmed blue line is the starting position):
-![OPA](https://user-images.githubusercontent.com/3150023/105703649-da807f80-5f0d-11eb-84b8-4e3f53db0673.png)
+![OPA](https://user-images.githubusercontent.com/3150023/105704314-ea4c9380-5f0e-11eb-92b1-095e162f810f.png)
 
 The GPA example (the middle red line is the *mean shape*):
-![GPA](https://user-images.githubusercontent.com/3150023/105703685-e5d3ab00-5f0d-11eb-80bf-00badf0fdfe8.png)
+![GPA](https://user-images.githubusercontent.com/3150023/105704323-ecaeed80-5f0e-11eb-9fa2-1ba683dca69f.png)
 
 In both cases, a root-mean-square deviation (RMSD) measure is shown in the window's title bar.
 
