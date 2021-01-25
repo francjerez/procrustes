@@ -96,7 +96,7 @@ def avg(v):
 		r, s, t, _ = opa(v[i], v[j]) 
 
 		# Add up [A]ngle (scalar) from all [R]otations (matrix) carried against every other shape 
-		R[j] += np.arccos(min(1,max(-1, np.trace(r[:1])))) * np.sign(r[1][0]) 			
+		R[j] += np.arccos(min(1, max(-1, np.trace(r[:1])))) * np.sign(r[1][0]) 			
 
 		# Get combined scale and translation values for every shape
 		S[j] += s 
