@@ -1,6 +1,6 @@
 # Procrustes
 
-Procrustes is a tiny, clean and heavily-commented NumPy-powered script originally designed to average facial landmarks. 
+A tiny, clean and heavily-commented NumPy-powered script originally designed to average facial landmarks. 
 
 ## Details
 
@@ -31,6 +31,6 @@ $ pip3 install matplotlib
 * 1975 - Generalized Procrustes Analysis (J.C. Gower)
 * 1977 - The Diffusion of Shape (D.G. Kendall)
 * 1991 - Procrustes Methods in the Statistical Analysis of Shape (Colin Goodall)
-* 1998 - Statistical Shape Analysis (I. Dryden, K.V. Mardia) 			
+* 1998 - Statistical Shape Analysis (I. Dryden, K.V. Mardia)
 * 2015 - Analyzing Fluctuating Asymmetry with Geometric Morphometrics (C.P. Klingenberg)
 
