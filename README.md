@@ -20,7 +20,7 @@ In both cases, a root-mean-square deviation (RMSD) measure is shown in the windo
 
 ## Examples
 
-OPA (the dimmed blue line is the starting position of the solid blue line):
+OPA (the dimmed blue line is the starting position of the solid blue one):
 ![OPA](https://user-images.githubusercontent.com/3150023/105704314-ea4c9380-5f0e-11eb-92b1-095e162f810f.png)
 
 GPA (the middle red line is the *mean shape*):
