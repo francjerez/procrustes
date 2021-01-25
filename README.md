@@ -33,5 +33,4 @@ $ pip3 install matplotlib
 * 1991 - Procrustes Methods in the Statistical Analysis of Shape (Colin Goodall)
 * 1998 - Statistical Shape Analysis (I. Dryden, K.V. Mardia) 			
 * 2015 - Analyzing Fluctuating Asymmetry with Geometric Morphometrics (C.P. Klingenberg)
-* 2020 - Walking on Kendall’s Shape Space (C.P. Klingenberg)
 
