@@ -12,7 +12,7 @@ Depending on where the reference shape comes from, PA can be qualified as *Ordin
 
 ## Testing 
 
-You can test the output by typing `python3 draw.py`.
+You can test the output by typing `python3 plot.py`.
 
 A two-part sequence of `matplotlib` charts, based on the fly wing example from [this](https://en.wikipedia.org/wiki/Procrustes_analysis) Wikipedia's article *infobox* (Klingenberg, 2015), will appear.
 
@@ -28,7 +28,7 @@ GPA (the middle red line is the *mean shape*):
 
 ## Dependencies
 
-Procrustes requires `numpy` and, if you want to run the provided `draw.py` test, `matplotlib` too:
+Procrustes requires `numpy` and, if you want to run the provided `plot.py` test, `matplotlib` too:
 
 ```
 $ python3 -m pip install --upgrade pip --user
